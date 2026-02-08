@@ -1,4 +1,6 @@
 # Async Substrate Interface
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fasync-substrate-interface.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fasync-substrate-interface?ref=badge_shield)
+
 This project provides an asynchronous interface for interacting with [Substrate](https://substrate.io/)-based blockchains. It is based on the [py-substrate-interface](https://github.com/polkascan/py-substrate-interface) project.
 
 Additionally, this project uses [bt-decode](https://github.com/opentensor/bt-decode) instead of [py-scale-codec](https://github.com/polkascan/py-scale-codec) for faster [SCALE](https://docs.substrate.io/reference/scale-codec/) decoding.
@@ -104,6 +106,9 @@ Contributions are welcome! Please open an issue or submit a pull request to the 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fasync-substrate-interface.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fasync-substrate-interface?ref=badge_large)
 
 ## Contact
 
